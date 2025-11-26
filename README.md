@@ -30,4 +30,55 @@ This project automates the validation process by analyzing historical claim patt
 
 ---
 
-## 📂 Project Structure  
+## 📊 Data Inputs  
+Typical input fields include:
+
+- Product Type  
+- Purchase Date  
+- Claim Date  
+- Repair/Replacement Cost  
+- Customer Purchase History  
+- Claim Description  
+- Servicing Center Details  
+- Previous Claim Records  
+
+These variables help identify anomalies that indicate fraudulent behavior.
+
+---
+
+## 🔍 Methodology  
+1. **Load & clean historical warranty claim data**  
+2. **Perform exploratory data analysis (EDA)**  
+3. **Engineer key features**  
+4. **Train classification models**  
+5. **Evaluate models using fraud-sensitive metrics**  
+6. **Select the best-performing model**  
+7. **Build an automated prediction pipeline**  
+
+---
+
+## 📈 Results  
+The final model provides:  
+- High accuracy in detecting fraudulent claims  
+- Significant reduction in manual investigation time  
+- Better identification of suspicious patterns and anomalies  
+- A scalable solution for real-world warranty operations  
+
+---
+
+## 🚀 Future Improvements  
+- Incorporate deep learning models  
+- Integrate NLP for analyzing text-based claim descriptions  
+- Connect with real-time warranty claim systems  
+- Deploy as an API for seamless company-wide usage  
+
+---
+
+## 👨‍💻 Developed By  
+**Kushal Paresh Bhatt**  
+Master of Data Science — University of Adelaide  
+Passionate about Data Analytics, Machine Learning, and Intelligent Automation.
+
+---
+
+
