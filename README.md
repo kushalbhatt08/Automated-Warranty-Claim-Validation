@@ -1,8 +1,3 @@
----
-title: "Automated Warranty Claim Validation"
-output: github_document
----
-
 # 🛠️ Automated Warranty Claim Validation  
 A Machine Learning Approach to Fraud Detection in Warranty Claims
 
